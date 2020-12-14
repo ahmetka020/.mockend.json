@@ -1,4 +1,4 @@
 {
-  "seraId" : 4,
-  "temperature" : 20
+  "seraId" : "int",
+  "temperature" : "int"
 }
